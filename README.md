@@ -4,7 +4,7 @@ A bilingual, responsive developer portfolio showcasing my professional experienc
 
 ## Live Website
 
-**[Explore my portfolio](https://kamal-bit-0134.github.io/simplePortfolio/)**
+**[Explore my portfolio](https://portfolioofkamalyogi.netlify.app/)**
 
 ## About
 
@@ -111,9 +111,14 @@ Language switching updates the website content and corresponding résumé link
 
 ## Deployment
 
-The portfolio is hosted using GitHub Pages and deployed from the `main` branch.
+The portfolio is hosted on Netlify and connected to
+the GitHub repository for continuous deployment.
 
-The previous version of the portfolio is preserved in the `legacy-portfolio` branch.
+Updates pushed to the `main` branch automatically
+trigger a new deployment.
+
+The previous version of the portfolio is preserved
+in the `legacy-portfolio` branch.
 
 ## Contact
 
